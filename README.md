@@ -6,6 +6,8 @@ The format of csv file of repos
 | :---:      |    :---:           | 
 | Abc        | (http://192.168.10.15/svn/Abc)                | 
 
+| command    |
+| :---:      | 
 | $ python3 svn_completelogs_script.py |
 
 
