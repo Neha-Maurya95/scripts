@@ -31,5 +31,8 @@ The format of csv file of repos
 | :---:      | 
 | $ ./memberslist__from_azadgroupids_csv.ps1 |
 
-
+#### 5. shell script to append/merge two vulnerability suppression file.
+| command    |
+| :---:      | 
+| $ bash vuln_suppression_merge.sh  |
   
