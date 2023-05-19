@@ -6,8 +6,8 @@ files=( "basesuppression/suppression.xml" "specific_vuln/suppression.xml" )
 output_file="mergedfile.xml"
 
 # set the AWS credentials
-aws_access_key_id='AKIAVZ7NVR76O3QAESQF'
-aws_secret_access_key='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'
+aws_access_key_id='xyz'
+aws_secret_access_key='xyz'
 
 for i in "${files[@]}"
 do
